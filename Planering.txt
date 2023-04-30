@@ -1,9 +1,0 @@
-Problemnedbrytning:
-
-Skapa Vehicle, Car och MotorBike klasser med relevanta egenskaper och metoder.
-Skapa TollCalculator klassen med metoder för att beräkna tullavgifter.
-Implementera beräkning av tullavgifter enligt kravspecifikation.
-Hantera rusningstrafik och maxtaxa.
-Hantera högsta dagliga avgiften och timgräns.
-Implementera avgiftsfria helger.
-Skapa TollCalculatorTest klassen för att testa programmet och säkerställa att kravspecifikationen uppfylls.
